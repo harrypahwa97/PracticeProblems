@@ -19,11 +19,8 @@ for N=3 the pattern will be
 For a given 3 digit number, find whether it is armstrong number or not. An Armstrong number of three digits is an integer such that the sum of the cubes of its digits is equal to the number itself. Return "Yes" if it is a armstrong number else return "No".
 NOTE: 371 is an Armstrong number since (3)^3 + (7)^3 + (1)^3 = 371
 
-### Q4 Factorial
 
-Given a positive integer, N. Find the factorial of N.
-
-### Q5 Sieve of Eratosthenes
+### Q4 Sieve of Eratosthenes
 
 Given a number N, calculate the prime numbers up to N using Sieve of Eratosthenes.  
 
@@ -35,7 +32,7 @@ Explanation:
 Prime numbers less than equal to N 
 are 2 3 5 and 7.
 
-### Q6 Sum of all prime numbers between 1 and N. 
+### Q5 Sum of all prime numbers between 1 and N. 
 
 Given a positive integer N, calculate the sum of all prime numbers between 1 and N(inclusive).
 
